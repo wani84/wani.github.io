@@ -1,1 +1,1 @@
-# terraECOsphere.github.io
+# TerraEcoSphere.github.io
